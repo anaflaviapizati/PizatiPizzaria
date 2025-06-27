@@ -1,16 +1,23 @@
-# cardapio_app
+# Pizati Pizzaria
 
-A new Flutter project.
+Este é o **meu primeiro projeto Flutter**, desenvolvido com o objetivo de criar um **cardápio digital para uma pizzaria**.
 
-## Getting Started
+## 📱 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+O `cardapio_app` é um aplicativo simples onde os usuários podem visualizar os sabores de pizza disponíveis, com o intuito de facilitar a navegação no cardápio e melhorar a experiência do cliente.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Recursos úteis para começar
+
+Como esse é meu primeiro projeto Flutter, utilizei bastante a documentação oficial e tutoriais iniciais:
+
+- [Codelab: Escreva seu primeiro app Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Exemplos úteis de Flutter](https://docs.flutter.dev/cookbook)
+
+## 📖 Documentação
+
+Para mais informações sobre o Flutter, confira a [documentação oficial](https://docs.flutter.dev/), que inclui tutoriais, exemplos, guias de desenvolvimento mobile e referência completa da API.
